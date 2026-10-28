@@ -1,0 +1,17 @@
+# Build output
+.build/
+build/
+DerivedData/
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+
+# Release packages (attach these to GitHub Releases instead of committing them)
+*.zip
+*.dmg
+
+# Editors and macOS
+.DS_Store
+.vscode/
+.idea/
+*.swp
